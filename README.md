@@ -14,7 +14,9 @@
 I am Verónica although you can call me Vero, I'm technique in **Advertising Graphics** & technician in **Web Applications Development**. I dedicate myself more actively to them.
 
 ✔️ Junior Profile in full stack development. Strong concern for fullstack MERN profile (knowledge in MongoDB, Express, REACT and node.js). Eager to train as a developer in Javascript and everything and everything related to this eloquent language.
+
 ✔️ Senior Profile in HTML5, CSS3, and responsive web design. The importance of good semantic HTML and logical order of cascading sheets. It is important to highlight the strong impact of developing a functionality on your website knowing what its relationship with HTML marking will be in the result of a project.
+
 ✔️ Transverse profile. Participating in different areas with vision: web design, UX, website layout and currently in front development teams.
 
 ### 💬 Verónica Today
