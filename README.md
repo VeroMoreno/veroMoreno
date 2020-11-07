@@ -1,26 +1,30 @@
 <div style="text-align:center"><img src="./img/welcome.png" alt="background" style="width:70%; margin-left:auto; margin-right:auto; display: block; width:300px"/></div>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23694640?logo=javascript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23f89d71?logo=javascript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-%23353b35?logo=react&logoColor=white)
+![NodeJS](https://img.shields.io/badge/-NodeJS-%23f89d71?logo=javascript&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-%23353b35?logo=mongodb&logoColor=white)
 ![Sass](https://img.shields.io/badge/-Sass-%23f89d71?logo=sass&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-%23748074?logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-%23f89d71?logo=html5&logoColor=white)
-![GIT](https://img.shields.io/badge/-Git-%23694640?logo=git&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-%23748074?logo=bootstrap&logoColor=white)
+![StyledComponents](https://img.shields.io/badge/-Styled%20Components-%23353b35?logo=react&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-%23f89d71?logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-%23353b35?logo=html5&logoColor=white)
+![GIT](https://img.shields.io/badge/-Git-%23f89d71?logo=git&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-%23353b35?logo=bootstrap&logoColor=white)
 
-🇦🇺 I am Verónica although you can call me Vero, I have several FP, although the ones I usually highlight are:
-* Higher Technique in **Advertising Graphics** (2010)
-* Senior Technician in **Web Applications Development** (2018)
-I dedicate myself more actively to them.
+I am Verónica although you can call me Vero, I'm technique in **Advertising Graphics** & technician in **Web Applications Development**. I dedicate myself more actively to them.
+
+✔️ Junior Profile in full stack development. Strong concern for fullstack MERN profile (knowledge in MongoDB, Express, REACT and node.js). Eager to train as a developer in Javascript and everything and everything related to this eloquent language.
+✔️ Senior Profile in HTML5, CSS3, and responsive web design. The importance of good semantic HTML and logical order of cascading sheets. It is important to highlight the strong impact of developing a functionality on your website knowing what its relationship with HTML marking will be in the result of a project.
+✔️ Transverse profile. Participating in different areas with vision: web design, UX, website layout and currently in front development teams.
 
 ### 💬 Verónica Today
 
-🇦🇺 Junior Full Stack profile, front-end development with Javascript using Backbone/React technologies, back-end development in NodeJS focused on REST API with Express framework and MongoDB database. Continuous integration using Circle/Docker and agile methodologies under Scrum
+Junior Full Stack profile, front-end development with Javascript using Backbone/React technologies, back-end development in NodeJS focused on REST API with Express framework and MongoDB database. Continuous integration using Circle/Docker and agile methodologies under Scrum
 
-### 🌱 I’m currently learning...
+### 🌱 I'm currently learning...
 - Mental Models by Dan Abramov
-- Advanced Course of JS in Fictizia
-- Hooked on codeCombat
+- Advanced Course of JS
+- Hooked on codeCombat and other sites that I love
 - Proyect about menu meals in React Hooks
 
 ### 🤔 If you want to know a little more about me...
