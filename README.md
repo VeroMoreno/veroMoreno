@@ -11,7 +11,7 @@
 ![GIT](https://img.shields.io/badge/-Git-%23f89d71?logo=git&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-%23353b35?logo=bootstrap&logoColor=white)
 
-I am Verónica although you can call me Vero, I'm technique in **Advertising Graphics** & technician in **Web Applications Development**. I dedicate myself more actively to them.
+I am Verónica although you can call me Vero, I'm technique in **Advertising Graphics** & technician in **Web Applications Development**. I spend more time on them
 
 ✔️ Junior Profile in full stack development. Strong concern for fullstack MERN profile (knowledge in MongoDB, Express, REACT and node.js). Eager to train as a developer in Javascript and everything and everything related to this eloquent language.
 
