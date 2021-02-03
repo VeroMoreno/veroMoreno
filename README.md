@@ -23,11 +23,14 @@ I am Verónica although you can call me Vero, I'm technique in **Advertising Gra
 
 Junior Full Stack profile, front-end development with Javascript using Backbone/React technologies, back-end development in NodeJS focused on REST API with Express framework and MongoDB database. Continuous integration using Circle/Docker and agile methodologies under Scrum
 
-### 🌱 I'm currently learning...
-- Mental Models by Dan Abramov
-- Advanced Course of JS
-- Hooked on codeCombat and other sites that I love
+### 🌱 I'm currently learning... / Last Projects
+
+- MEAN Stack Course (With official certificate in MongoDB)
+- FullStack Bootcamp with <a href="https://www.twitch.tv/midudev" target="_blank">Midudev</a>
+- Friendly Project with my beautiful woman developer <a href="https://github.com/LeylaVieira" target="_blank">@LeylaVieira</a>
 - Proyect about menu meals in React Hooks
+- Advanced Course of JS
+- Mental Models by Dan Abramov
 
 ### 🤔 If you want to know a little more about me...
 
@@ -35,4 +38,4 @@ Junior Full Stack profile, front-end development with Javascript using Backbone/
 - 🌎 I **love** travel!.
 - ⚡  I'm crazy about psychology.
 - 🌱 Realfooder.
-- 🤸🏾‍♀️ I do a lot of exercise. It helps me function well every day.
+- 🤸🏾‍♀️ I do a lot of exercise. It helps me work well every day.
