@@ -26,7 +26,7 @@ Junior Full Stack profile, front-end development with Javascript using Backbone/
 ### 🌱 I'm currently learning... / Last Projects
 
 - MEAN Stack Course (With official certificate in MongoDB)
-- FullStack Bootcamp with <a href="https://www.twitch.tv/midudev" target="_blank">Midudev</a>
+- FullStack Bootcamp with <a href="https://www.twitch.tv/midudev" target="_blank">Midudev</a> in <a href="https://codesandbox.io/u/veroMoreno" target="_blank">Codesandbox</a>
 - Friendly Project with my beautiful woman developer <a href="https://github.com/LeylaVieira" target="_blank">@LeylaVieira</a>
 - Proyect about menu meals in React Hooks
 - Advanced Course of JS
