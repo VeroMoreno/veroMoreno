@@ -2,7 +2,7 @@
 ```shell
  { “name” : “Verónica Moreno Flores”,
    “role” : “Full stack Developer”,
-   “data” : [ "GITHUB" , "<a href="https://www.linkedin.com/in/vmorenoflores/" target="_blank">LINKEDIN</a>" , "RESUME" ] }
+   “data” : [ "Javascript" , "React" , "Node" , "MongoDB" ] }
 ```
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23f89d71?logo=javascript&logoColor=white)
