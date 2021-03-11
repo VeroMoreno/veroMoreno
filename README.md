@@ -1,4 +1,9 @@
-<div style="text-align:center"><img src="./img/welcome.png" alt="background" style="width:70%; margin-left:auto; margin-right:auto; display: block; width:300px"/></div>
+<!--div style="text-align:center"><img src="./img/welcome.png" alt="background" style="width:70%; margin-left:auto; margin-right:auto; display: block; width:300px"/></div-->
+```shell
+ { “name” : “Verónica Moreno Flores”,
+   “role” : “Full stack Developer”,
+   “data” : [ "GITHUB" , "<a href="https://www.linkedin.com/in/vmorenoflores/" target="_blank">LINKEDIN</a>" , "RESUME" ] }
+```
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23f89d71?logo=javascript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-%23353b35?logo=react&logoColor=white)
