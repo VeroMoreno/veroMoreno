@@ -3,10 +3,10 @@
  { “name” : “Verónica Moreno Flores”,
    “role” : “Jr Full stack Developer”,
    “data” : 
-     [ 
-      "Linkedin" : "https://www.linkedin.com/in/vmorenoflores/" , 
+     { 
+      "Linkedin" : "https://www.linkedin.com/in/vmorenoflores/", 
       "Resume"   : "https://veromoreno.github.io/"
-     ] }
+     } }
 ```
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23f89d71?logo=javascript&logoColor=white)
