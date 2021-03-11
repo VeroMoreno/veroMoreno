@@ -2,7 +2,8 @@
 ```shell
  { “name” : “Verónica Moreno Flores”,
    “role” : “Full stack Developer”,
-   “data” : [ "Javascript" , "React" , "Node" , "MongoDB" ] }
+   “data” : [ "Javascript" , "React" , "Node" , "MongoDB" ],
+   "info" : "Junior Full Stack profile, front-end development with Javascript using Backbone/React technologies, back-end development in NodeJS focused on REST API              with Express framework and MongoDB database. Continuous integration using Circle/Docker and agile methodologies under Scrum" }
 ```
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23f89d71?logo=javascript&logoColor=white)
