@@ -1,11 +1,12 @@
 <!--div style="text-align:center"><img src="./img/welcome.png" alt="background" style="width:70%; margin-left:auto; margin-right:auto; display: block; width:300px"/></div-->
 ```shell
  { “name” : “Verónica Moreno Flores”,
-   “role” : “Jr Full stack Developer”,
+   “role” : “Jr Fullstack Developer”,
    “data” : 
      { 
       "Linkedin" : "https://www.linkedin.com/in/vmorenoflores/", 
-      "Resume"   : "https://veromoreno.github.io/"
+      "Resume"   : "https://veromoreno.github.io/",
+      "IG"       : "https://www.instagram.com/veritechie"
      }
  }
 ```
@@ -23,11 +24,14 @@
 
 I am Verónica although you can call me Vero, I'm technique in **Advertising Graphics** & technician in **Web Applications Development**. I spend more time on them
 
-✔️ Junior Profile in full stack development. Strong concern for fullstack MERN profile (knowledge in MongoDB, Express, REACT and node.js). Eager to train as a developer in Javascript and everything and everything related to this eloquent language.
+✔️ Junior Profile in fullstack development. Strong concern for fullstack MERN profile (knowledge in MongoDB, Express, REACT and node.js). Eager to train as a developer in Javascript and everything and everything related to this eloquent language.
 
 ✔️ Senior Profile in HTML5, CSS3, and responsive web design. The importance of good semantic HTML and logical order of cascading sheets. It is important to highlight the strong impact of developing a functionality on your website knowing what its relationship with HTML marking will be in the result of a project.
 
 ✔️ Transverse profile. Participating in different areas with vision: web design, UX, website layout and currently in front development teams.
+
+### 📸  <a href="https://www.instagram.com/veritechie" target="_blank">Veritechie</a>
+I would like to help people by teaching knowledge that I would have liked to have when I started programming, that is why I have created @Veritechie, a community where we can all grow together. Are you coming? <a href="https://www.instagram.com/veritechie" target="_blank">click here!</a>
 
 ### 💬 Verónica Today
 
@@ -37,10 +41,8 @@ Junior Full Stack profile, front-end development with Javascript using Backbone/
 
 - MEAN Stack Course (With official certificate in MongoDB)
 - FullStack Bootcamp with <a href="https://www.twitch.tv/midudev" target="_blank">Midudev</a> in <a href="https://codesandbox.io/u/veroMoreno" target="_blank">Codesandbox</a>
-- Friendly Project with my beautiful woman developer <a href="https://github.com/LeylaVieira" target="_blank">@LeylaVieira</a>
-- Proyect about menu meals in React Hooks
-- Advanced Course of JS
-- Mental Models by Dan Abramov
+- Backend proyect about menu meals in React Hooks
+- Angular (+2)
 
 ### 🤔 If you want to know a little more about me...
 
