@@ -66,3 +66,8 @@ Junior Full Stack profile, front-end development with Javascript using Backbone/
 - ⚡  I'm crazy about psychology.
 - 🌱 Realfooder.
 - 🤸🏾‍♀️ I do a lot of exercise. It helps me work well every day.
+
+---
+
+#### 🎧 Music drives me crazy | Spotify Playing
+[<img src="https://spotify-now-playing-kappa.vercel.app/api/spotify-playing" alt="veromoreno spotify playing" width="350" />]()
