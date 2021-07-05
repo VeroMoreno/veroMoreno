@@ -30,12 +30,16 @@
 
 <br/>
 
-#### more...
-
-![StyledComponents](https://img.shields.io/badge/-Styled%20Components-%23353b35?logo=react&logoColor=white)
-![GIT](https://img.shields.io/badge/-Git-%23f89d71?logo=git&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-%23353b35?logo=bootstrap&logoColor=white)
-
+#### And you can find me in...
+<p>
+  <a href="https://instagram.com/veritechie" target="_blank">
+    <img src="https://img.shields.io/badge/instagram-%231DA1F2.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=071A2C" alt="Veritechie"/>
+  </a>
+  <a href="https://www.linkedin.com/in/vmorenoflores/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
+  </a>
+  </a>
+</p>
 
 I am Verónica although you can call me Vero, I'm technique in **Advertising Graphics** & technician in **Web Applications Development**. I spend more time on them
 
