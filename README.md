@@ -65,7 +65,7 @@ Junior Full Stack profile, front-end development with Javascript using Backbone/
 
 ### 🤔 If you want to know a little more about me...
 
-- 👩‍💻 Find me on <a href="https://www.linkedin.com/in/vmorenoflores/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-blue?logo=linkedin&logoColor=white"></a>
+- 👯 I **love** help 
 - 🌎 I **love** travel!.
 - ⚡  I'm crazy about psychology.
 - 🌱 Realfooder.
