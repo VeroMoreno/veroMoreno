@@ -11,16 +11,23 @@
  }
 ```
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23f89d71?logo=javascript&logoColor=white)
-![React](https://img.shields.io/badge/-React-%23353b35?logo=react&logoColor=white)
-![NodeJS](https://img.shields.io/badge/-NodeJS-%23f89d71?logo=javascript&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-%23353b35?logo=mongodb&logoColor=white)
-![Sass](https://img.shields.io/badge/-Sass-%23f89d71?logo=sass&logoColor=white)
-![StyledComponents](https://img.shields.io/badge/-Styled%20Components-%23353b35?logo=react&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-%23f89d71?logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-%23353b35?logo=html5&logoColor=white)
-![GIT](https://img.shields.io/badge/-Git-%23f89d71?logo=git&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-%23353b35?logo=bootstrap&logoColor=white)
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][yt]
+
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][yt]
+
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][yt]
+
+[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][yt]
+
+[<img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />][yt]
+
+[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][yt]
+
+[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][yt]
+
+[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][yt]
+
+<br/>
 
 I am Verónica although you can call me Vero, I'm technique in **Advertising Graphics** & technician in **Web Applications Development**. I spend more time on them
 
