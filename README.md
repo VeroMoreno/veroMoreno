@@ -74,4 +74,4 @@ Junior Full Stack profile, front-end development with Javascript using Backbone/
 ---
 
 #### 🎧 Music drives me crazy | Spotify Playing
-[<img src="https://spotify-now-playing-kappa.vercel.app/api/spotify-playing" alt="veromoreno spotify playing" width="350" />]()
+[<img src="https://spotify-now-playing-kappa.vercel.app/api/spotify-playing" alt="spotify playing" width="350" />]()
