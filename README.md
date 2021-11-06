@@ -1,4 +1,4 @@
-<!--div style="text-align:center"><img src="./img/welcome.png" alt="background" style="width:70%; margin-left:auto; margin-right:auto; display: block; width:300px"/></div-->
+<div style="text-align:center"><img src="./img/welcome.png" alt="background" style="width:70%; margin-left:auto; margin-right:auto; display: block; width:300px"/></div>
 ```shell
  { “name” : “Verónica Moreno Flores”,
    “role” : “Jr Fullstack Dev”,
@@ -39,7 +39,7 @@
 ✔️ Transverse profile. Participating in different areas with vision: web design, UX, website layout and currently in front development teams.
 
 ### <a href="https://www.instagram.com/veritechie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="veritechie" height="30" width="40" /></a>  <a href="https://www.instagram.com/veritechie" target="_blank">Veritechie</a>
-My objective is to be able to share and motivate people who feel a strong concern for development, programming and the technology sector. <a href="https://www.instagram.com/veritechie" target="_blank">click here!</a>
+My objective is to be able to share and motivate people who feel a strong concern for development, programming and the technology sector. I have always been able to transmit good feelings when communicating with others and I am always willing to help, that is why I enjoy providing the necessary information to all those interested in technology.<a href="https://www.instagram.com/veritechie" target="_blank">We are already 20K!</a>
 
 ### 💬 Verónica Today
 
@@ -47,10 +47,10 @@ Junior Full Stack profile, front-end development with Javascript using Backbone/
 
 ### 🌱 I'm currently learning... / Last Projects
 
+- Personal projects 
+- Advance React JS
 - MEAN Stack Course (With official certificate in MongoDB)
 - FullStack Bootcamp with <a href="https://www.twitch.tv/midudev" target="_blank">Midudev</a> in <a href="https://codesandbox.io/u/veroMoreno" target="_blank">Codesandbox</a>
-- Backend proyect about menu meals in React Hooks
-- Angular (+2)
 
 ### Github Stats:
 
