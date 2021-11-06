@@ -49,7 +49,7 @@ I am Verónica although you can call me Vero, I'm technique in **Advertising Gra
 
 ✔️ Transverse profile. Participating in different areas with vision: web design, UX, website layout and currently in front development teams.
 
-###<a href="https://www.instagram.com/veritechie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="veritechie" height="30" width="40" /></a> &nbsp;  <a href="https://www.instagram.com/veritechie" target="_blank">Veritechie</a>
+### <a href="https://www.instagram.com/veritechie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="veritechie" height="30" width="40" /></a>  <a href="https://www.instagram.com/veritechie" target="_blank">Veritechie</a>
 I would like to help people by teaching knowledge that I would have liked to have when I started programming, that is why I have created @Veritechie, a community where we can all grow together. Are you coming? <a href="https://www.instagram.com/veritechie" target="_blank">click here!</a>
 
 ### 💬 Verónica Today
