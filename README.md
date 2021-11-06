@@ -29,7 +29,7 @@
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 
 <br/>
-
+---
 ✔️ Junior Profile in fullstack development. Strong concern for fullstack MERN profile (knowledge in MongoDB, Express, REACT and node.js). Eager to train as a developer in Javascript and everything and everything related to this eloquent language.
 
 ✔️ Senior Profile in HTML5, CSS3, and responsive web design. The importance of good semantic HTML and logical order of cascading sheets. It is important to highlight the strong impact of developing a functionality on your website knowing what its relationship with HTML marking will be in the result of a project.
