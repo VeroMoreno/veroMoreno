@@ -2,7 +2,7 @@
 
 ```shell
  { “name” : “Verónica Moreno Flores”,
-   “role” : “Fullstack Dev”,
+   “role” : “Frontend Dev | MERN Stack”,
    “data” : 
      { 
       "Linkedin" : "https://www.linkedin.com/in/vmorenoflores/", 
