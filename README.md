@@ -54,7 +54,7 @@
 
 
 ### <a href="https://www.instagram.com/veritechie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="veritechie" height="30" width="40" /></a>  <a href="https://www.instagram.com/veritechie" target="_blank">Veritechie</a>
-My objective is to be able to share and motivate people who feel a strong concern for development, programming and the technology sector. I have always been able to transmit good feelings when communicating with others and I am always willing to help, that is why I enjoy providing the necessary information to all those interested in technology. <a href="https://www.instagram.com/veritechie" target="_blank">We are almost already 30K!</a>
+My objective is to be able to share and motivate people who feel a strong concern for development, programming and the technology sector. I have always been able to transmit good feelings when communicating with others and I am always willing to help, that is why I enjoy providing the necessary information to all those interested in technology. <a href="https://www.instagram.com/veritechie" target="_blank">We are almost already 35K!</a>
 
 ### 🌱 I'm currently learning... / Last Projects
 
@@ -72,8 +72,8 @@ that offers the figure of women in technology and Esports sectors [Click to see]
 
 ---
 [<img align="left" height="94px" width="120px" background-size="cover" alt="Warpnet" src="https://i0.wp.com/www.santiagosaroortiz.com/web/wp-content/uploads/2021/02/Santander-Global-Tech.jpg?w=680&ssl=1"/>](https://www.instagram.com/tv/CZzVgSdFGU1/) 
-**La tecnología no tiene género** \
-Visibilidad de la mujer en el mundo de la Tecnología, conocer los factores que afectan a la mujer en la carrera de Steam. [Click to see](https://www.instagram.com/tv/CZzVgSdFGU1/) 
+**Technology has no gender** \
+Visibility of women in the world of Technology, know the factors that weaken women in the Steam career. [Click to see](https://www.instagram.com/tv/CZzVgSdFGU1/) 
 
 ---
 
