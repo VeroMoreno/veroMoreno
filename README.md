@@ -65,10 +65,10 @@ My objective is to be able to share and motivate people who feel a strong concer
 
 
 ### 🗣 Veronica as speaker
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="http://www.emperiial.de/wp-content/uploads/2020/01/9xEsZ-ph_400x400.jpg"/>](https://www.twitch.tv/videos/1189259093) 
-**Colloquium of Women for Change 👩‍💻CODERS & GAMERS 🎮** \
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="http://www.emperiial.de/wp-content/uploads/2020/01/9xEsZ-ph_400x400.jpg"/>](https://www.instagram.com/p/CcBYOECjp6s/) 
+**Colloquium of Women for Change 👩‍💻CODERS** \
 Talk to inspire future generations about great opportunities
-that offers the figure of women in technology and Esports sectors [Click to see](https://www.twitch.tv/videos/1189259093) 
+that offers the figure of women in technology and Esports sectors [Click to see](https://www.instagram.com/p/CcBYOECjp6s/) 
 
 ---
 [<img align="left" height="94px" width="120px" background-size="cover" alt="Warpnet" src="https://i0.wp.com/www.santiagosaroortiz.com/web/wp-content/uploads/2021/02/Santander-Global-Tech.jpg?w=680&ssl=1"/>](https://www.instagram.com/tv/CZzVgSdFGU1/) 
