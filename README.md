@@ -61,7 +61,6 @@ My objective is to be able to share and motivate people who feel a strong concer
 - GraphQL / Heroku / Docker 
 - Advance React JS
 - MEAN Stack Course (With official certificate in MongoDB)
-- FullStack Bootcamp with <a href="https://www.twitch.tv/midudev" target="_blank">Midudev</a> in <a href="https://codesandbox.io/u/veroMoreno" target="_blank">Codesandbox</a>
 
 
 ### 🗣 Veronica as speaker
