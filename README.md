@@ -71,7 +71,7 @@ Talk to inspire future generations about great opportunities
 that offers the figure of women in technology and Esports sectors [Click to see](https://www.instagram.com/p/CcBYOECjp6s/) 
 
 ---
-[<img align="left" height="94px" width="94px" alt="Santander & Mongo DB" src="https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/04/bf/63/04bf633d-c2d9-032c-46e7-a92fe2208ab1/AppIcon-0-1x_U007emarketing-0-0-sRGB-85-220-0-10.png/1024x1024.jpg"/>](https://www.youtube.com/watch?v=MEkkblYUEOM) 
+[<img align="left" height="94px" width="94px" alt="Santander & Mongo DB" src="https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/04/bf/63/04bf633d-c2d9-032c-46e7-a92fe2208ab1/AppIcon-0-1x_U007emarketing-0-0-sRGB-85-220-0-10.png/1024x1024.jpg"/>](https://www.instagram.com/tv/CZzVgSdFGU1/?igshid=MDJmNzVkMjY%3D) 
 **Technology has no gender** \
 Visibility of women in the world of Technology, know the factors that weaken women in the Steam career. Very important for our society. [Click to see](https://www.instagram.com/tv/CZzVgSdFGU1/) 
 
