@@ -70,7 +70,7 @@ Talk to inspire future generations about great opportunities
 that offers the figure of women in technology and Esports sectors [Click to see](https://www.instagram.com/p/CcBYOECjp6s/) 
 
 ---
-[<img align="left" height="94px" width="120px" background-size="cover" alt="Warpnet" src="https://i0.wp.com/www.santiagosaroortiz.com/web/wp-content/uploads/2021/02/Santander-Global-Tech.jpg?w=680&ssl=1"/>](https://www.instagram.com/tv/CZzVgSdFGU1/) 
+[<img align="left" height="94px" width="120px" background-size="cover" alt="Warpnet" src="https://img.restaurantguru.com/rb6e-logo-Santander-Work-Cafe-Banco-Santander.jpg"/>](https://www.instagram.com/tv/CZzVgSdFGU1/) 
 **Technology has no gender** \
 Visibility of women in the world of Technology, know the factors that weaken women in the Steam career. [Click to see](https://www.instagram.com/tv/CZzVgSdFGU1/) 
 
