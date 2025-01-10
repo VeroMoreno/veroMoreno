@@ -5,7 +5,7 @@
    “role” : “Frontend Dev | MERN Stack”,
    “data” : 
      { 
-      "Linkedin" : "https://www.linkedin.com/in/vmorenoflores/", 
+      "Linkedin" : "https://www.linkedin.com/in/veritechie/", 
       "Resume"   : "https://veromoreno.github.io/",
       "IG"       : "https://www.instagram.com/veritechie"
      }
@@ -97,7 +97,3 @@ A session led by inspiring women that have built a successful career in the IT s
     <td valign="top"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=veroMoreno&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical&hide_stars=false" /></td>
   </tr>
 </table>
-
-
-#### 🎧 I love music! | Spotify Playing
-[<img src="https://spotify-now-playing-kappa.vercel.app/api/spotify-playing" alt="spotify playing" width="350" />]()
